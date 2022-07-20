@@ -57,9 +57,10 @@ body {
 .one{
     margin: 30px 60px 20px;
     width: 75%;
-    height: 20%;
+    height: 16%;
     color: black;
     border-radius: 5px;
+    background-color: #ffffff;
     padding: 5px 10px;
     cursor: pointer;
 }
