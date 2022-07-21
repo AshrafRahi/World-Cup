@@ -62,7 +62,7 @@ body {
     height: 380px;
     width: 495px;
     border-radius: 10px;
-    display:;
+    display: fixed;
 }
 .one{
     margin: 30px 60px 20px;
