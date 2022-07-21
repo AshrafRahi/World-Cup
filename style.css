@@ -62,6 +62,7 @@ body {
     height: 380px;
     width: 495px;
     border-radius: 10px;
+    display:;
 }
 .one{
     margin: 30px 60px 20px;
@@ -243,7 +244,7 @@ footer .foot{
 /* mobile plus tablet social icon  */
 .social-icons {
     margin: 30px 0;
-   display: none;
+   display: inline;
   }
   .social-icons a i {
     width: 32px;
@@ -305,7 +306,7 @@ footer .foot{
       .end{
         display: inline-block;
       }
-      .social-icons {
+      /* .social-icons {
         display: inline;
        }
        .social-icons a i {
@@ -316,7 +317,7 @@ footer .foot{
          color: #969bab;
          background-color: #e7e7e8;
          margin: 10px 5px;
-       }
+       } */
     }
     /* tablet media quuery  */
 @media screen and (min-width:577px) and (max-width:992px) {
@@ -389,7 +390,7 @@ footer .foot{
         padding: 5px 10px;
      }
  
-     .social-icons {
+     /* .social-icons {
       display: inline;
      }
      .social-icons a i {
@@ -400,5 +401,5 @@ footer .foot{
        color: #969bab;
        background-color: #e7e7e8;
        margin: 10px 5px;
-     }
+     } */
     }
